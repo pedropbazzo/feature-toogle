@@ -22,13 +22,6 @@ public class FeatureTogglesConfig {
 	
 	public void enableToggle(String key, Boolean value) throws Exception {
 		
-//		if(!featureToggle.isEmpty()) {
-//			for(Map.Entry<String, Boolean> entry : toggles.entrySet()) {
-//				toggles.replace(entry.getKey(), entry.getValue());
-//			}
-//		}
-		
-		
 		if(toggles.containsKey(key)) {
 			toggles.replace(key, value);
 		} else {			
