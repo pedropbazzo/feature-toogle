@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
-@ComponentScan("com.github.douglsantos")
+@ComponentScan("com.github.pedropbazzo")
 @SpringBootApplication
 public class FeatureToggleSpringBootActuatorApplication {
 
