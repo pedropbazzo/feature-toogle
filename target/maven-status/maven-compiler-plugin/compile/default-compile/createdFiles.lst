@@ -1,0 +1,10 @@
+com\github\douglsantos\toggle\entrypoint\FeatureToggleEntrypoint.class
+com\github\douglsantos\dataprovider\endereco\entity\Endereco.class
+com\github\douglsantos\dataprovider\sql\endereco\BuscarEnderecoSQLDataProvider.class
+com\github\douglsantos\dataprovider\http\endereco\BuscarEnderecoHTTPDataprovider.class
+com\github\douglsantos\FeatureToggleSpringBootActuatorApplication.class
+com\github\douglsantos\toggle\config\FeatureTogglesConfig.class
+com\github\douglsantos\gateway\endereco\BuscarEnderecoGateway.class
+com\github\douglsantos\entrypoint\endereco\EnderecoEntrypoint.class
+META-INF\spring-configuration-metadata.json
+com\github\douglsantos\usecase\endereco\EnderecoUseCase.class

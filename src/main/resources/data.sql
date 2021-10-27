@@ -1,0 +1,1 @@
+INSERT INTO TBL_ENDERECOS(ID, BAIRRO, CEP, CIDADE, ESTADO, LOGRADOURO) VALUES(1, 'Jardim Guilhermino', '07273010', 'Guarulhos', 'SP', 'Rua Luiz Pereira da Silva');

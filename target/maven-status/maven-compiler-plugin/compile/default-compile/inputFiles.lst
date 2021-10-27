@@ -1,0 +1,9 @@
+C:\Users\pedro\AndroidStudioProjects\feature-toggle-spring-boot\feature-toggle\src\main\java\com\github\douglsantos\toggle\entrypoint\FeatureToggleEntrypoint.java
+C:\Users\pedro\AndroidStudioProjects\feature-toggle-spring-boot\feature-toggle\src\main\java\com\github\douglsantos\dataprovider\sql\endereco\BuscarEnderecoSQLDataProvider.java
+C:\Users\pedro\AndroidStudioProjects\feature-toggle-spring-boot\feature-toggle\src\main\java\com\github\douglsantos\toggle\config\FeatureTogglesConfig.java
+C:\Users\pedro\AndroidStudioProjects\feature-toggle-spring-boot\feature-toggle\src\main\java\com\github\douglsantos\FeatureToggleSpringBootActuatorApplication.java
+C:\Users\pedro\AndroidStudioProjects\feature-toggle-spring-boot\feature-toggle\src\main\java\com\github\douglsantos\gateway\endereco\BuscarEnderecoGateway.java
+C:\Users\pedro\AndroidStudioProjects\feature-toggle-spring-boot\feature-toggle\src\main\java\com\github\douglsantos\entrypoint\endereco\EnderecoEntrypoint.java
+C:\Users\pedro\AndroidStudioProjects\feature-toggle-spring-boot\feature-toggle\src\main\java\com\github\douglsantos\dataprovider\endereco\entity\Endereco.java
+C:\Users\pedro\AndroidStudioProjects\feature-toggle-spring-boot\feature-toggle\src\main\java\com\github\douglsantos\dataprovider\http\endereco\BuscarEnderecoHTTPDataprovider.java
+C:\Users\pedro\AndroidStudioProjects\feature-toggle-spring-boot\feature-toggle\src\main\java\com\github\douglsantos\usecase\endereco\EnderecoUseCase.java
