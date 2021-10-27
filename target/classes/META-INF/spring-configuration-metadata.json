@@ -2,33 +2,33 @@
   "groups": [
     {
       "name": "feature",
-      "type": "com.github.douglsantos.toggle.config.FeatureTogglesConfig",
-      "sourceType": "com.github.douglsantos.toggle.config.FeatureTogglesConfig"
+      "type": "com.github.pedropbazzo.toggle.config.FeatureTogglesConfig",
+      "sourceType": "com.github.pedropbazzo.toggle.config.FeatureTogglesConfig"
     },
     {
       "name": "management.endpoint.feature-toggles",
-      "type": "com.github.douglsantos.toggle.entrypoint.FeatureToggleEntrypoint",
-      "sourceType": "com.github.douglsantos.toggle.entrypoint.FeatureToggleEntrypoint"
+      "type": "com.github.pedropbazzo.toggle.entrypoint.FeatureToggleEntrypoint",
+      "sourceType": "com.github.pedropbazzo.toggle.entrypoint.FeatureToggleEntrypoint"
     }
   ],
   "properties": [
     {
       "name": "feature.toggles",
       "type": "java.util.Map<java.lang.String,java.lang.Boolean>",
-      "sourceType": "com.github.douglsantos.toggle.config.FeatureTogglesConfig"
+      "sourceType": "com.github.pedropbazzo.toggle.config.FeatureTogglesConfig"
     },
     {
       "name": "management.endpoint.feature-toggles.cache.time-to-live",
       "type": "java.time.Duration",
       "description": "Maximum time that a response can be cached.",
-      "sourceType": "com.github.douglsantos.toggle.entrypoint.FeatureToggleEntrypoint",
+      "sourceType": "com.github.pedropbazzo.toggle.entrypoint.FeatureToggleEntrypoint",
       "defaultValue": "0ms"
     },
     {
       "name": "management.endpoint.feature-toggles.enabled",
       "type": "java.lang.Boolean",
       "description": "Whether to enable the feature-toggles endpoint.",
-      "sourceType": "com.github.douglsantos.toggle.entrypoint.FeatureToggleEntrypoint",
+      "sourceType": "com.github.pedropbazzo.toggle.entrypoint.FeatureToggleEntrypoint",
       "defaultValue": true
     }
   ],
